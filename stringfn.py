@@ -6,6 +6,7 @@ print(s.split())
 print(s.strip())
 print(s.replace("world" , "python"))
 print(" ".join(s))
+#imp ones
 print(s.find("world"))
 print(s.count("Hello"))
 print(s.startswith("py"))
